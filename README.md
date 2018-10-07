@@ -1,5 +1,5 @@
     
-![alt text](https://github.com/Supriya0115/Data-Journalism/blob/master/HealthcarePoverty.JPG)
+![alt text](https://github.com/Supriya0115/Data-Journalism/blob/master/HealthcarePoverty.png)
 
 •	Created a scatter plot that represents each state with circle elements. 
 

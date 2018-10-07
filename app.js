@@ -117,8 +117,8 @@ d3.csv('data.csv', function(err, phcdata) {
     .attr('y', function(data) {
       return yLinearScale(data.healthcare);
     })
-    .attr("font-size", "9px")
-    .attr("fill", "purple")
+    .attr("font-size", "10px")
+    .attr("fill", "black")
     .style("text-anchor", "middle");
 
     chart
