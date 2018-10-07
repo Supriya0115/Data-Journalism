@@ -5,6 +5,8 @@
 
 •	Included state abbreviations in the circles.
 
+•	Included tooltip (hide/show) in the circles.
+
 •	Created and situated the axes and labels to the left and bottom of the chart.
 
 •	Used python -m http-server to run the visualization and host the page at localhost:8000 in  web     browser.
