@@ -1,5 +1,6 @@
 # Visualize Poverty vs Healthcare in US
-![] (https://github.com/Supriya0115/Data-Journalism/blob/master/HealthcarePoverty.JPG)
+![alt text](https://github.com/Supriya0115/Data-Journalism/blob/master/HealthcarePoverty.JPG)
+
 •	Created a scatter plot that represents each state with circle elements. 
 •	Included state abbreviations in the circles.
 •	Created and situated the axes and labels to the left and bottom of the chart.
